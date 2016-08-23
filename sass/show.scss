@@ -1,3 +1,33 @@
-img{
-  width:30px;
+
+.show{
+  margin:0px auto;
+  border:1px solid black;
+  width:80%;
+  height:200px;
+  
+  .infos{
+    width:80%;
+    float: left;
+    display: block;
+    img{
+      float: left;
+      margin: 2px;
+    }
+  }
+
+  .buttons{
+    width: 20%;
+    height:100%;
+    display: block;
+    float: left;
+    button{
+      width: 100%;
+      height: 46%;
+      margin-bottom: 2%;
+      border-radius: 50px;
+    }
+  }
+  
+  
 }
+
