@@ -5,7 +5,7 @@ import {Show} from "../models/show";
  */
 
 
-@Injectable
+@Injectable()
 export class ShowService{
-    shows: Show[];
+   /* shows: Show[];*/
 }

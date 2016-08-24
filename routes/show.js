@@ -5,6 +5,9 @@
 var express = require ('express');
 var router = express.Router();
 
-router.get('/', function(req,res,next){
-    console.log("klmr");
+router.get('/k', function(req,res,next){
+    console.log("tou router");
 });
+
+
+module.exports = router;

@@ -22,14 +22,14 @@ import { Show } from '../models/show';
 
 export class ShowComponent implements OnInit {
 
-    @Input() show:Show;
+    // @Input() show:Show;
 
     constructor ( ){ }
 
     poster: string = "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@._V1_SX300.jpg";
     title: string = "Breaking bad";
 
-    ngOnInit() { }
+    ngOnInit() { "inited" }
 
     onNextEpisode(){
         console.log("klmr");
