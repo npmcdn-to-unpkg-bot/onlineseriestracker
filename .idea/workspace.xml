@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22da5109-8d48-4dda-ab00-1814f3f1206e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/app/app.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/app/components/show-list.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/app/components/show.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/app/models/show.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/components/show.component.ts" afterPath="$PROJECT_DIR$/assets/app/components/show.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/services/show-list.service.ts" afterPath="$PROJECT_DIR$/assets/app/services/show-list.service.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/boot.js" afterPath="$PROJECT_DIR$/public/js/app/boot.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/show.js" afterPath="$PROJECT_DIR$/routes/show.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.hbs" afterPath="$PROJECT_DIR$/views/index.hbs" />
     </list>
     <ignored path="onlineseriestracker.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -544,7 +534,7 @@
       <option name="presentableId" value="Default" />
       <updated>1471964266869</updated>
       <workItem from="1471964268865" duration="2314000" />
-      <workItem from="1471983254799" duration="7814000" />
+      <workItem from="1471983254799" duration="8602000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1471996145994</created>
@@ -557,7 +547,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10128000" />
+    <option name="totallyTimeSpent" value="10916000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
